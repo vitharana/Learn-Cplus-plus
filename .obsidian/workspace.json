@@ -1,0 +1,401 @@
+{
+  "main": {
+    "id": "51427927eafbf248",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d0bdee4a2dc4536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13053c4a847d7c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parts/50mm EDF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "50mm EDF"
+            }
+          },
+          {
+            "id": "dd651235175de753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parts/50mm EDF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "50mm EDF"
+            }
+          },
+          {
+            "id": "5b01158b0771330a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codes/Pixhawk Safety Reference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pixhawk Safety Reference"
+            }
+          },
+          {
+            "id": "7b2bbb9bdf66e58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build Techniques/Circular sections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Circular sections"
+            }
+          },
+          {
+            "id": "be15c9edbd68c824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build Techniques/Covering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Covering"
+            }
+          },
+          {
+            "id": "8bf09fcf8b90f833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S1 Design/Assembly Views.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembly Views"
+            }
+          },
+          {
+            "id": "090c5b69cce0b7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parts/Dollar Tree Foam Board.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dollar Tree Foam Board"
+            }
+          },
+          {
+            "id": "13f935863ec43720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parts/50mm EDF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "50mm EDF"
+            }
+          },
+          {
+            "id": "78977d2802c8746a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S1 Design/Servo mount design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Servo mount design"
+            }
+          },
+          {
+            "id": "7afcb40f0ca857dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S1 Design/Mirror Parts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mirror Parts"
+            }
+          },
+          {
+            "id": "0e1a9aa0e55719b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBS-Auto-Record/01 OBS Web Server Enable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 OBS Web Server Enable"
+            }
+          },
+          {
+            "id": "7919be51dafc8980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBS-Auto-Record/02 Auto start on launch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Auto start on launch"
+            }
+          },
+          {
+            "id": "e19c87099c4bb23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBS-Auto-Record/03 Start GUI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 Start GUI"
+            }
+          },
+          {
+            "id": "bd6dfdedb86b13ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Basic Program.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Basic Program"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9960ee8148960a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb738734f4b1f541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f05d7d0ffb58bd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c7b5c91f35d860f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6afa1e521eedc5cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f2d0ad4fcb1a0da",
+    "type": "split",
+    "children": [
+      {
+        "id": "628a561e10370abc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c63892865d24323",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d22dd926cc2814ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a8da9808d8e37180",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5e162c6e2b1a0d70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd6dfdedb86b13ac",
+  "lastOpenFiles": [
+    "attachment/Pasted image 20251223014818.png",
+    "attachment",
+    "01 Basic Program.md",
+    "Basics",
+    "OBS-Auto-Record/03 Start GUI.md",
+    "OBS-Auto-Record/04 tool to split videos.md",
+    "OBS-Auto-Record/attachment/Pasted image 20250808031945.png",
+    "OBS-Auto-Record/attachment/2025-08-08 02-48-20.mp4",
+    "OBS-Auto-Record/attachment/Pasted image 20250808024834.png",
+    "OBS-Auto-Record/attachment/Pasted image 20250808024812.png",
+    "OBS-Auto-Record/attachment/Pasted image 20250808024728.png",
+    "OBS-Auto-Record/attachment/Pasted image 20250808022136.png",
+    "OBS-Auto-Record/02 Auto start on launch.md",
+    "OBS-Auto-Record/01 OBS Web Server Enable.md",
+    "OBS-Auto-Record/attachment/2025-08-07 23-47-34.mp4",
+    "OBS-Auto-Record/attachment/Pasted image 20250807234540.png",
+    "OBS-Auto-Record/attachment/Pasted image 20250807233648.png",
+    "OBS-Auto-Record/attachment/Pasted image 20250807221612.png",
+    "OBS-Auto-Record/attachment/2025-08-07 15-15-51.mkv",
+    "sobs.bat",
+    "New Text Document.txt",
+    "kobs.bat",
+    "OBS-Auto-Record/attachment/Pasted image 20250807134506.png",
+    "OBS-Auto-Record/attachment/Pasted image 20250807134437.png",
+    "OBS-Auto-Record/attachment",
+    "Readme.md",
+    "open-in-obsidian.bat",
+    "Making the thread loop.md",
+    "S1 Design/Mirror Parts.md",
+    "S1 Design/Test Wings on Mid Section.md",
+    "S1 Design/Servo mount design.md",
+    "Parts/Install Aileron Servo.md",
+    "UnderGrad Design/Frame Weight.md",
+    "Build Techniques/Fusalage.md",
+    "Build Techniques/Covering.md",
+    "Build Techniques/Circular sections.md",
+    "Tests/servo serial testing.md",
+    "Parts/50mm EDF.md",
+    "Parts/4S 750 mah lipo battery.md",
+    "Parts/Dollar Tree Foam Board.md",
+    "Materials/Dollar Tree Foam Board.md",
+    "Tools/Pureref.md",
+    "S1 Design/Sheet metal design.md",
+    "S1 Design/Wing Shape.md",
+    "S1 Design/Motor Mount On Rod.md",
+    "S1 Design/Surface flatten in solidworks.md"
+  ]
+}
